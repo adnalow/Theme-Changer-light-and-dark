@@ -188,7 +188,7 @@ p {
 .theme-switch-wrapper {
   display: flex;
   align-items: center;
-  z-index: 100;
+  z-index: 500;
   position: fixed;
   right: 25px;
   top: 30px;
