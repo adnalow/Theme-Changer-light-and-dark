@@ -173,14 +173,14 @@ p {
 }
 
 /* Contact Section */
-.fab {
+.fa-brands {
   font-size: 100px;
   margin-right: 50px;
   cursor: pointer;
   color: var(--primary-color);
 }
 
-.fab:hover {
+.fa-brands:hover {
   color: var(--on-background);
 }
 
@@ -255,7 +255,7 @@ input:checked + .slider::before {
   border-radius: 50%;
 }
 
-.fas {
+.fa-solid {
   font-size: 30px;
   margin-right: 5px;
 }
